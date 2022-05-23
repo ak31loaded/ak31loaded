@@ -1,5 +1,6 @@
 ### Hey👋 It's Arpit
-Welcome to my GitHub Profile![tenor_1](https://user-images.githubusercontent.com/86323672/169904234-1bfe0eb1-aac3-4efd-9763-ff5272d45216.gif)
+Welcome to my GitHub Profile
+![tenor_1](https://user-images.githubusercontent.com/86323672/169904234-1bfe0eb1-aac3-4efd-9763-ff5272d45216.gif)
 
 
 - 🔭 I’m currently working on ...
