@@ -8,7 +8,6 @@ Welcome to my GitHub Profile
 - 🔭 A sophomore in NIT Jamshedpur
 - 🌱 Persuing B.Tech in Electronics and Communication
 - ⚡ Always Ready to contribute
-- 🙃 Cancels programs to programme
 
 ### Languages and Tools
 <p float="left">
